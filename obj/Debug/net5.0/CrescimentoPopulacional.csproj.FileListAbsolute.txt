@@ -1,0 +1,16 @@
+D:\git\CrescimentoPopulacional\bin\Debug\net5.0\CrescimentoPopulacional.exe
+D:\git\CrescimentoPopulacional\bin\Debug\net5.0\CrescimentoPopulacional.deps.json
+D:\git\CrescimentoPopulacional\bin\Debug\net5.0\CrescimentoPopulacional.runtimeconfig.json
+D:\git\CrescimentoPopulacional\bin\Debug\net5.0\CrescimentoPopulacional.runtimeconfig.dev.json
+D:\git\CrescimentoPopulacional\bin\Debug\net5.0\CrescimentoPopulacional.dll
+D:\git\CrescimentoPopulacional\bin\Debug\net5.0\ref\CrescimentoPopulacional.dll
+D:\git\CrescimentoPopulacional\bin\Debug\net5.0\CrescimentoPopulacional.pdb
+D:\git\CrescimentoPopulacional\obj\Debug\net5.0\CrescimentoPopulacional.csprojAssemblyReference.cache
+D:\git\CrescimentoPopulacional\obj\Debug\net5.0\CrescimentoPopulacional.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\CrescimentoPopulacional\obj\Debug\net5.0\CrescimentoPopulacional.AssemblyInfoInputs.cache
+D:\git\CrescimentoPopulacional\obj\Debug\net5.0\CrescimentoPopulacional.AssemblyInfo.cs
+D:\git\CrescimentoPopulacional\obj\Debug\net5.0\CrescimentoPopulacional.csproj.CoreCompileInputs.cache
+D:\git\CrescimentoPopulacional\obj\Debug\net5.0\CrescimentoPopulacional.dll
+D:\git\CrescimentoPopulacional\obj\Debug\net5.0\ref\CrescimentoPopulacional.dll
+D:\git\CrescimentoPopulacional\obj\Debug\net5.0\CrescimentoPopulacional.pdb
+D:\git\CrescimentoPopulacional\obj\Debug\net5.0\CrescimentoPopulacional.genruntimeconfig.cache
